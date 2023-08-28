@@ -1,0 +1,15 @@
+.normal {
+    padding: 100px 50px;
+    background-color: white;
+    color: black;
+    border: yellow solid 2px;
+}
+
+.hovered {
+
+    padding: 150px 70px;
+    background-color: white;
+    color: black;
+    border: green solid 2px;
+
+}
